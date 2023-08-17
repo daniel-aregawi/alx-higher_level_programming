@@ -1,3 +1,1 @@
-#!/usr/bin/python3
-def multiply_list_map(my_list=[], number=0):
-    return list(map(lambda x: x*number, my_list))i
+VimCrypt~03!ùiì®°½œº×‹î˜ Üžî'j\DÊ+½€7zoÀ4VKõhÃÑ]/VÈòyB2ƒ×ƒcäQZ ¨ë—¥šÑÉêÏž't]ŽV¸”áç=³¯Í6Hs~åÏ|^/5	«®!¸«>òVP¶rîHU«Q·¦Œn'i’½–ÀÔÓr>‘³
